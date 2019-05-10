@@ -1,0 +1,12 @@
+[submodule "OCA_project"]
+	path = OCA_project
+	url = https://github.com/OCA/project.git
+	branch = 11.0
+[submodule "OCA_account-analytic"]
+	path = OCA_account-analytic
+	url = https://github.com/OCA/account-analytic.git
+	branch = 11.0
+[submodule "OCA_account-invoicing"]
+	path = OCA_account-invoicing
+	url = https://github.com/OCA/account-invoicing.git
+	branch = 11.0
