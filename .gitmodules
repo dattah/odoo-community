@@ -10,3 +10,7 @@
 	path = OCA_account-invoicing
 	url = https://github.com/OCA/account-invoicing.git
 	branch = 11.0
+[submodule "OCA_contract"]
+	path = OCA_contract
+	url = git@github.com:OCA/contract.git
+	branch = 11.0
